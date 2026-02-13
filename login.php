@@ -10,5 +10,13 @@
   <button type="submit">Login</button>
 </form>
 
+<p style="margin-top:15px;">
+    Don’t have an account?
+    <a href="signup.php" style="color:blue; text-decoration:none; font-weight:bold;">
+        Sign up
+    </a>
+</p>
+
+
 </body>
 </html>
